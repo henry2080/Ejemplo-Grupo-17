@@ -1,1 +1,1 @@
-Este es una archivo de ejemplo para creacion de un repositorio
+Este es una archivo de ejemplo para la creacion de un repositorio
